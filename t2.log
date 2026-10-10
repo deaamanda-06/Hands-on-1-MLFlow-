@@ -1,0 +1,7 @@
+A) per-epoch run: 28bfa9c31fde4099898fd5b31b7f7643 best_val_f1=0.9861
+🏃 View run mlp-32-16-lr0.003 at: http://localhost:5000/#/experiments/1/runs/28bfa9c31fde4099898fd5b31b7f7643
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+2026/10/10 21:55:41 WARNING mlflow.sklearn: Saving scikit-learn models in the pickle or cloudpickle format requires exercising caution because these formats rely on Python's object serialization mechanism, which can execute arbitrary code during deserialization. The recommended safe alternative is the 'skops' format. For more information, see: https://scikit-learn.org/stable/model_persistence.html
+B) autolog run: a6a966f497c240438a7381c6c7d56c35
+🏃 View run rf-autolog at: http://localhost:5000/#/experiments/1/runs/a6a966f497c240438a7381c6c7d56c35
+🧪 View experiment at: http://localhost:5000/#/experiments/1
